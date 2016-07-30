@@ -8,13 +8,13 @@ It is a fun way to collect information, images, video and sound on the aquatic l
 
 Team name: Bob's gang
 
-Team memebers: 
+Team memebers: Matt Cejko, Martin Nobis, Muhammad Pavel, Mizanur Rahman, Asheshwor Shrestha, Oshim Somers 
 
-Demo url: 
+Demo url: https://github.com/Unleashed2016/aquadex
 
 Video url: 
 
-Hackerspace url: 
+Hackerspace url: https://2016.hackerspace.govhack.org/node/1766
 
 ### Datasets Used: 
 
@@ -32,6 +32,12 @@ https://data.gov.au/dataset/af1b8d1c-a186-4e72-8e9e-549a8065e970
 
 * Whale Watching - SA Whale Centre
 http://www.sawhalecentre.com/whale-sightings/sightings-log/?mc_cid=00ccaf0043&mc_eid=3b8b4f019a
+
+* Park Lands
+https://data.sa.gov.au/data/dataset/park-land-parks
+
+* Park Land Toilets
+https://data.sa.gov.au/data/dataset/park-land-toilets
 
 ### Local Event Location:
 Adelaide
