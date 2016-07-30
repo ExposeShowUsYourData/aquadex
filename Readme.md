@@ -33,11 +33,6 @@ https://data.gov.au/dataset/af1b8d1c-a186-4e72-8e9e-549a8065e970
 * Whale Watching - SA Whale Centre
 http://www.sawhalecentre.com/whale-sightings/sightings-log/?mc_cid=00ccaf0043&mc_eid=3b8b4f019a
 
-* Park Lands
-https://data.sa.gov.au/data/dataset/park-land-parks
-
-* Park Land Toilets
-https://data.sa.gov.au/data/dataset/park-land-toilets
 
 ### Local Event Location:
 Adelaide
