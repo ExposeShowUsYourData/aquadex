@@ -2,6 +2,8 @@
 
 Tag-line: Aquadex allows you to help us help the Sea.
 
+![aquadex logo](img/AquaDEXIcon.png)
+
 It is a fun way to collect information, images, video and sound on the aquatic life around you. 
 
 
