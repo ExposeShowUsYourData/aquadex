@@ -18,7 +18,9 @@ Aquadex provides a mediator solution to exhibit aquatic data through an app in a
 #### How It Works:
 Aquadex uses a range of aquatic and marine data. It also collects and process data provided by Aquadex users. It then combines open & user data and provides a consolidated view. Users can get a list of locations marine resources of their interest like - dolphins, whales, fish species and frequency of their sightings. Then there is a list of challenges for user to collect data and share on Aquadex. Here we have included gaming logic and used our “Augmented Reality” API to make it most interactive way of collecting data.
 
-Our game-logic enables user to participate in a contest with other app users and score points. Users are encouraged through a range of gift-cards and aquatic points. Our Augmented Reality engine, although in a POC right now, provides a very interactive and amusing way to locate & guide you to your next challenge through markers & direction. The key concept is to use the mobile device sensors, mainly accelerometer, magnetometer, GPS, camera to establish the current location, orientation and point-of-view (in terms of camera viewport) of the device. On top, of the camera feed on the phone screen, data is superimposed in transparent/semi-transparent layers. This is done by creating virtual markers based on geolocated dataset(s) and using algorithms to determine the approximate distance and direction of heading for the marker in relation to the user's (and phone camera's) point-of-view. Navigation features can be added by using the phone's motion sensors to determine direction of movement as well.
+Our game-logic enables user to participate in a contest with other app users and score points. Users are encouraged through a range of gift-cards and aquatic points. User take a snap of the marine species and upload it to Aquadex. The app then processes the image using Monocular API to recognize the species and logs it for the user.
+
+Our Augmented Reality engine, although in a POC right now, provides a very interactive and amusing way to locate & guide you to your next challenge through markers & direction. The key concept is to use the mobile device sensors, mainly accelerometer, magnetometer, GPS, camera to establish the current location, orientation and point-of-view (in terms of camera viewport) of the device. On top, of the camera feed on the phone screen, data is superimposed in transparent/semi-transparent layers. This is done by creating virtual markers based on geolocated dataset(s) and using algorithms to determine the approximate distance and direction of heading for the marker in relation to the user's (and phone camera's) point-of-view. Navigation features can be added by using the phone's motion sensors to determine direction of movement as well.
 
 
 Team name: Bob's gang
@@ -64,3 +66,6 @@ http://www.sawhalecentre.com/whale-sightings/sightings-log/?mc_cid=00ccaf0043&mc
 * Google Maps Directions API: Used for routing and navigation from user's current location to destination (location of restaurant, club, etc.)
 
 * Backendless: On-demand Mobile Backend as a Service (mBaaS) platform.
+
+* Monocular API (not used in the PoC): Can be used to identify species. 
+
